@@ -17,6 +17,6 @@ cargo install tauri-cli --version ^1.0.0-rc.10
 
 ## Build
 
-```
+```test
 cargo tauri build
 ```
